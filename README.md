@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brajmohan Tikarya
 - 👀 I’m interested in builiding things.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Express.js.
 - 📫 How to reach me: DM on Twitter: @brajmohant01
 
 <!---
