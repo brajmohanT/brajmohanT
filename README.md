@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brajmohan Tikarya
-- 👀 I’m interested in builiding things.
+- 👀 Regularly buidling the builiding things.
 - 🌱 I’m currently learning Express.js.
 - 📫 How to reach me: DM on Twitter: @brajmohant01
 
