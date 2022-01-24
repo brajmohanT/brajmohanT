@@ -19,10 +19,13 @@
 
 ---
 
-<!-- - 👋 Hi, I’m Brajmohan Tikarya
-- 👀 Regularly buidling the things.
-- 🌱 I’m currently learning Express.js.
-- 📫 How to reach me: DM on Twitter: @brajmohant01 -->
+<br>
+
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=brajmohanT&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="brajmohanT's Github Stats">
+ -->
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brajmohanT&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/brajmohanT/github-readme-stats)
 
 <!---
 brajmohanT/brajmohanT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
