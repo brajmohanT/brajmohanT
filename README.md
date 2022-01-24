@@ -7,16 +7,15 @@
 
 - 👨‍💻 I’m currently pursuing B.Tech. in Information Technology.
 - ⚡ JavaScript is Favourite.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 📚 I’m currently learning and understanding React Ecosystem. 😅
 - 💪🏼 Future Goals: Building more - Never stop creating new things.
 
 ---
 
-
-- 👋 Hi, I’m Brajmohan Tikarya
+<!-- - 👋 Hi, I’m Brajmohan Tikarya
 - 👀 Regularly buidling the things.
 - 🌱 I’m currently learning Express.js.
-- 📫 How to reach me: DM on Twitter: @brajmohant01
+- 📫 How to reach me: DM on Twitter: @brajmohant01 -->
 
 <!---
 brajmohanT/brajmohanT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
