@@ -1,3 +1,5 @@
+
+![Brajmohan](https://github.com/brajmohanT/HTML-CSS_DesignCourse/blob/main/chrome_mO2T4AapTs.gif)
 - 👋 Hi, I’m Brajmohan Tikarya
 - 👀 Regularly buidling the things.
 - 🌱 I’m currently learning Express.js.
