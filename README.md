@@ -1,4 +1,4 @@
-![Brajmohan](https://github.com/brajmohanT/HTML-CSS_DesignCourse/blob/main/chrome_mO2T4AapTs.gif)
+![Brajmohan](https://github.com/brajmohanT/brajmohanT/blob/main/Profile_assets/Name.gif "Brajmohan")
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -10,9 +10,21 @@
 - 📚 I’m currently learning and understanding React Ecosystem. 😅
 - 💪🏼 Future Goals: Building more - Never stop creating new things.
 ---
-</br>
+<!-- </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brajmohanT&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/brajmohanT/github-readme-stats)
+
+--- -->
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; JavaScript | C++  
+- 🌐 &nbsp; HTML | CSS | Bootstrap 
+- ⚡ &nbsp; React | NodeJs | Express
+- 🛢 &nbsp; MySQL | Firebase | MongoDB
+- 🔧 &nbsp; Visual Studio code | Git
+
+<br>
 
 ---
 
@@ -25,8 +37,25 @@
 
 <br />
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=brajmohanT&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="brajmohanT's Github Stats">
- -->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=brajmohanT&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="brajmohanT's Github Stats"> -->
+
+---
+
+<br/>
+
+  <h2 align="center"> Github Statistics 📈 </h2>
+  
+  <div align="center" > 
+     <a href="">
+      <img align="center" margin="20px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brajmohanT&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="brajmohanT's Github Stats" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brajmohanT&layout=compact&text_color=daf7dc&bg_color=151515"/>
+    </a>
+</div
+  
+<br/>
+
 
 
 <!---
