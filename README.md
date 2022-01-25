@@ -18,9 +18,9 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="brajmohan | twitter " width="40px" src="https://github.com/brajmohanT/brajmohanT/blob/main/Profile_assets/TwitterIcon.gif" />](https://twitter.com/brajmohant01)
-[<img align="left" alt="brajmohan | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />](https://www.linkedin.com/in/brajmohan-tikarya-88543b190/)
-&nbsp; <a href="mailto:bmtikarya@gmail.com" target="_blank" rel="noopener noreferrer"><img align="left" alt="brajmohan | mail" width="40px" height="30px" src="https://github.com/brajmohanT/brajmohanT/blob/main/Profile_assets/GmailIcon.gif" /></a>
+[<img align="left" alt="brajmohan | twitter " width="40px" src="https://github.com/brajmohanT/brajmohanT/blob/main/Profile_assets/TwitterIcon.gif" />](https://twitter.com/brajmohant01 "Twitter")
+[<img align="left" alt="brajmohan | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />](https://www.linkedin.com/in/brajmohan-tikarya-88543b190/ "LinkedIn")
+&nbsp; <a href="mailto:bmtikarya@gmail.com" target="_blank" rel="noopener noreferrer"><img title="gmail" align="left" alt="brajmohan | mail" width="40px" height="30px" src="https://github.com/brajmohanT/brajmohanT/blob/main/Profile_assets/GmailIcon.gif" /></a>
 
 
 <br />
