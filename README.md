@@ -37,9 +37,9 @@
   <h2 align="center"> Github Statistics 📈 </h2>
   
   <div align="center" > 
-     <a href="">
+<!--      <a href="">
       <img align="center" margin="20px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brajmohanT&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="brajmohanT's Github Stats" />
-    </a>
+    </a> -->
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brajmohanT&layout=compact&text_color=daf7dc&bg_color=151515"/>
     </a>
